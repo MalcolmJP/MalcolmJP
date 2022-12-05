@@ -1,8 +1,8 @@
 ## Hi, I'm Malcolm Joseph Piassa, Full Stack Developer.
 <div align="center">
   <a href="https://github.com/MalcolmJP">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MalcolmJP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalcolmJP&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MalcolmJP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalcolmJP&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   
